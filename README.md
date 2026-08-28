@@ -24,13 +24,13 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 ## 💻 Ferramentas e Linguagens
 
 > *Linguagens que estou aprendendo ao longo do curso:*
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,cs&perline=6" />
 </p>
 
-<br>
-
+<br><br>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=q6uti&label=Visualizações+do+perfil&color=blueviolet&style=flat" /> </p>
