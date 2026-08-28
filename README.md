@@ -21,8 +21,8 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 </p>
 
 ---
-## 💻 Ferramentas e Tecnologias
-> *Tecnologias que estou aprendendo ao longo do curso:*
+## 💻 Ferramentas e Linguagens
+> *Linguagens que estou aprendendo ao longo do curso:*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
