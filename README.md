@@ -32,8 +32,6 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 
 <br><br>
 
-<br>
-
 <p align="center">
   <sub>Obrigado por visitar meu perfil! 👋</sub>
 </p>
