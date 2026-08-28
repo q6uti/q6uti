@@ -7,3 +7,5 @@
 ---
 
 Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espaço para documentar minha jornada de estudos e compartilhar os projetos que desenvolvo.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=q6uti&label=Visualizações+do+perfil&color=blueviolet&style=flat" /> </p>
