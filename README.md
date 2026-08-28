@@ -20,6 +20,19 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
   </a>
 </p>
 
+---
+## 💻 Ferramentas e Tecnologias
+> *Tecnologias que estou aprendendo ao longo do curso:*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=q6uti&label=Visualizações+do+perfil&color=blueviolet&style=flat" /> </p>
