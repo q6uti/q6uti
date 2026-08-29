@@ -28,6 +28,11 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,cs&perline=6" />
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 <br><br>
