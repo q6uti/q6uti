@@ -23,7 +23,7 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 ---
 ## 💻 Ferramentas e Linguagens
 
-> *Linguagens que estou aprendendo ao longo do curso:*
+> *Linguagens e ferramentas que estou aprendendo ao longo do curso:*
 <br>
 
 <p align="center">
