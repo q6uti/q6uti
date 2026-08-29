@@ -35,7 +35,7 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
-## 💻 Ferramentas e Linguagens
+## 🐍 Snake Status
 
 <br><br>
 
