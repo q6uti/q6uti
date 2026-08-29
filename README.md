@@ -11,7 +11,7 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/q6uti">
     <img src="https://github-stats-extended.vercel.app/api?username=q6uti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="55%" />
   </a>
