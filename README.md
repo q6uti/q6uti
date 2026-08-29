@@ -38,6 +38,6 @@ Meu nome é Guilherme, sou aluno de Ensino Técnico Estadual. Utilizo este espa�
 <br><br>
 
 <p align="center">
-  <sub>Obrigado por visitar meu perfil! 👋</sub>
+  <sub> Obrigado por visitar meu perfil! 👋</sub>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=q6uti&label=Visualizações+do+perfil&color=blueviolet&style=flat" /> </p>
